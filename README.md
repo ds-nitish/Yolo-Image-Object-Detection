@@ -15,13 +15,13 @@ To run the script, you need to have the following dependencies installed:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/yolo-object-detection.git
+git clone https://github.com/your-username/Yolo-Image-Object-Detection.git
 ```
 
 2. Change into the project directory:
 
 ```
-cd yolo-object-detection
+cd Yolo-Image-Object-Detection
 ```
 
 3. Download the YOLO model weights, configuration file, and class labels file. You can use the following links:
@@ -35,7 +35,7 @@ cd yolo-object-detection
 5. Run the script with the following command:
 
 ```
-python yolo_object_detection.py --image image.jpg
+python Yolo-Image-Object-Detection.ipynb --image image.jpg
 ```
 
 Replace `image.jpg` with the path to your own input image.
